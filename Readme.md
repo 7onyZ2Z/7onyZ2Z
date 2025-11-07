@@ -1,10 +1,6 @@
 <h1 align="center">👋 Hi, I'm Tony!</h1>
 <h3 align="center">A passionate graduate student exploring the frontiers of AI</h3>
 
-<p align="center">
-  <a href="mailto:hanwenz298@gmail.com">Email</a>
-</p>
-
 ---
 
 ## 🚀 About Me
@@ -93,12 +89,6 @@
 <p align="center">
   <a href="mailto:hanwenz298@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="weixin://dl/chat?z1293305517">
-    <img src="https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white" />
-  </a>
-  <a href="tencent://message/?uin=1293305517&Site=&Menu=yes">
-    <img src="https://img.shields.io/badge/QQ-EB1923?style=for-the-badge&logo=tencentqq&logoColor=white" />
   </a>
 </p>
 
